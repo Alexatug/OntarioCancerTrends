@@ -58,4 +58,4 @@ Adjust `how` param as needed (e.g. left, inner, outer). Handle NaNs explicitly.
 - `Cancer_Incidence_Snapshot_2010_2014.csv`: Cleaned incidence data.
 - `Cancer_Mortality_Snapshot_2003_2015.csv`: Cleaned mortality data.
 - `SDOH_Clean_Wide.csv`: Copied SDOH snapshot in pivoted form.
-- `README_Cancer_Trends.md`: This file.
+- `README.md`: This file.
